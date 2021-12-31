@@ -31,5 +31,6 @@ Hi, I'm [Tim Lenaers](https://timlenaers.be/), a passionate full-stack web devel
 <img align="left" title="azure" height="20" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png">
 
 <br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=timlenaers&show_icons=true" alt="Tim Lenaers's Github stats" />
